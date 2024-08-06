@@ -1,0 +1,20 @@
+{
+  "short_name": "Lecture Free",
+  "name": "Lecture Free",
+  "icons": [
+    {
+      "src": "Put in the necessary image",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Put in the necessary image",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "Put in the theme_color",
+  "background_color": "Put in the background_color"
+}
